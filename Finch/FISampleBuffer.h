@@ -1,3 +1,7 @@
+
+#import <OpenAL/al.h>
+#import <OpenAL/alc.h>
+
 #import "FISampleFormat.h"
 
 @interface FISampleBuffer : NSObject
